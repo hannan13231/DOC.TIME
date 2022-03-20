@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "495033992613",
+    "project_id": "docapp-34fb6",
+    "storage_bucket": "docapp-34fb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495033992613:android:f853cd48e22c662c26544c",
+        "android_client_info": {
+          "package_name": "com.doocapp.new_projects"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495033992613-db7s71vpiauivkqncocep4ifs9a4aosh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHQNf-ow0RjPELa6SSvCLfB8Xe6bN2lbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495033992613-db7s71vpiauivkqncocep4ifs9a4aosh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
